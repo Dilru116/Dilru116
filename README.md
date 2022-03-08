@@ -65,4 +65,9 @@
 
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Dilru116">
+</a>
+<a href="https://github.com/Dilru116?tab=followers"><img src="https://img.shields.io/github/followers/Dilru116?label=Followers&style=social" alt="GitHub Badge"></a>
 
