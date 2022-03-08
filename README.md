@@ -6,17 +6,17 @@
 
 ## 🙋🏻‍♀️ About Me..
 
-- 🔭 I’m currently studying at **Saegis Campus**
+- 👩‍💻 I’m currently studying at **Saegis Campus**
 
 - 🌱 I’m currently learning **phython and java programming languages.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **dilru116@gmail.com**
+- 💌 How to reach me **dilru116@gmail.com**
 
 - ⚡ Fun fact **I play games and reading books.**
 
-## 🚀 Languages and Tools:
+## 🎯 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
