@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://st3.depositphotos.com/4678277/31961/i/1600/depositphotos_319612452-stock-photo-top-above-high-angle-back.jpg.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://st3.depositphotos.com/3271675/15470/v/1600/depositphotos_154704196-stock-illustration-happy-children-sitting-at-laptops.jpg" height="175px"/></a>
 
 <h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilrukshi Dayananda</h1>
 <h3 align="center">I'm a computer science student from Srilanka.</h3>
