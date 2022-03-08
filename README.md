@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.istockphoto.com/vector/teenage-girk-working-on-computer-in-classroom-gm1150453750-311427082.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://dribbble.com/shots/11235947-Coding-girls/04.jpg" height="175px"/></a>
 
 <h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilrukshi Dayananda</h1>
 <h3 align="center">I'm a computer science student from Srilanka.</h3>
